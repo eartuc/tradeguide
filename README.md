@@ -39,7 +39,7 @@ Johan: https://www.linkedin.com/in/johan-ortega-h-829665123/
 
 ---
 
-### Instruction for offline solution
+### Instructions for offline solution
 
 Run one of the scripts below. Equations from the model are clearly marked within the code including 
 references to their numbers in the paper and the corresponding steps in the algorithm. 
