@@ -5,7 +5,7 @@ This project provides tools and guides for solving trade models for researchers,
 Human generated solution code is available in Python, Julia, Matlab, and R for Eaton&Kortum(2002)-like trade models. Run the script "AO_Extended.x" for the full model and "EK_Simple.x" for the basic model. Each script is self-contained and just requires an included data file. The solution algorithm is linear and easy to follow. See the instructions below to run the model online or offline. The details are in the working paper. 
 
 ***Paper***: Artuc and Ortega (2026). "International Trade Policy and Quantitative Models: A Practitioner’s Guide," World Bank PRWP 11347.\
-http://documents.worldbank.org/curated/en/099455303302627347
+[Link to paper](https://documents1.worldbank.org/curated/en/099455303302627347/pdf/IDU-89d9b7f3-8392-43df-8aaf-9aa352301347.pdf)
 
 ---
 
